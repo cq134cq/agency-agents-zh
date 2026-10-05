@@ -135,21 +135,6 @@
 <table>
 <tr>
 <td width="25%">
-  <a href="https://metaso.cn/minimax-h3/?s=gt533367">
-    <img src="assets/sponsor-metaso.jpeg" alt="秘塔科技 — 高性價比 MiniMax H3 影片生成 API 服務，768P 0.09 元/秒、2K 0.15 元/秒，相容 OpenAI 協議、支援 ComfyUI" width="100%">
-  </a>
-</td>
-<td width="75%" valign="middle">
-
-感謝[秘塔科技](https://metaso.cn/minimax-h3/?s=gt533367)贊助了本專案！秘塔科技提供高性價比的 MiniMax H3 影片生成 API 服務，適合漫劇、營銷影片及批次影片生成：768P 低至 0.09 元/秒、2K 0.15 元/秒，原生 2K 畫質，支援音畫同步。API 相容 OpenAI 協議，支援 ComfyUI，無需自行部署模型和 GPU，開箱即用。🎁 **透過[此連結](https://metaso.cn/minimax-h3/?s=gt533367)註冊，即可享受贈送額度及專屬優惠！**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="25%">
   <a href="https://www.packyapi.ai/register?aff=js5W">
     <img src="assets/sponsor-packycode.jpeg" alt="PackyCode — 穩定高效的 API 中轉服務，統一域名與金鑰接入主流大模型，97% 可用性，多分組低至 2 折，提供 Codex / Claude Code 高速通道" width="100%">
   </a>
