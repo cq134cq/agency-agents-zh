@@ -150,13 +150,13 @@
 <table>
 <tr>
 <td width="25%">
-  <a href="https://fluxionai.space/register?source=github&campaign=agencyagents&promo=agencyagents">
-    <img src="assets/sponsor-fluxion-ai.png" alt="Fluxion AI — 一個入口，接入並管理全球主流 AI 模型" width="100%">
+  <a href="https://sidrune.ai/register?source=github&campaign=agencyagents&promo=agencyagents&aff=RQHWKAMQLX2S">
+    <img src="assets/sponsor-sidrune-ai.png" alt="Sidrune AI — 一個入口，接入並管理全球主流 AI 模型" width="100%">
   </a>
 </td>
 <td width="75%" valign="middle">
 
-感謝 [Fluxion AI](https://fluxionai.space/register?source=github&campaign=agencyagents&promo=agencyagents) 贊助本專案！**一個入口，接入並管理全球主流 AI 模型。** Fluxion AI 面向個人開發者、技術團隊與企業，透過統一 API 接入並管理全球主流 AI 模型；透過多線路動態調度提升可用性，模型表現、回應時間與費用透明可查。根據不同模型與線路，API 呼叫成本較官方或基準價格可降低 40%—98%。🎁 **透過[此連結](https://fluxionai.space/register?source=github&campaign=agencyagents&promo=agencyagents)註冊，即可獲得 $3.88 API 額度！**
+感謝 [Sidrune AI](https://sidrune.ai/register?source=github&campaign=agencyagents&promo=agencyagents&aff=RQHWKAMQLX2S) 贊助本專案！**一個入口，接入並管理全球主流 AI 模型。** Sidrune AI 面向個人開發者、技術團隊與企業，透過統一 API 接入並管理全球主流 AI 模型；透過多線路動態調度提升可用性，模型表現、回應時間與費用透明可查。根據不同模型與線路，API 呼叫成本較官方或基準價格可降低 40%—98%。🎁 **透過[此連結](https://sidrune.ai/register?source=github&campaign=agencyagents&promo=agencyagents&aff=RQHWKAMQLX2S)註冊，即可獲得 $3 API 額度！**
 
 </td>
 </tr>
